@@ -1,5 +1,5 @@
 
-key = '06d38de3c75a51c8a59502c50884b828'
+key = ''
 
 #url = 'https://api.openweathermap.org/data/2.5/weather?q='+city+'&units=metric&appid='+key
 
